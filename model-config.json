@@ -1,0 +1,6 @@
+{
+  "Artist": {
+    "dataSource": "artistSpotifyRest",
+    "public": true
+  }
+}
